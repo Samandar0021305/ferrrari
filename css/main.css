@@ -47,3 +47,12 @@ a{
 .navbar-list a{
     color: white;
 }
+
+.navbar-logo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    margin-right: auto;
+    margin-left: 200px;
+    cursor: pointer;
+}
